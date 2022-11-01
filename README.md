@@ -1,5 +1,5 @@
-#h1Cucumber Challenge
-#h2 Steps to run the code
+#H1Cucumber Challenge
+#H2Steps to run the code
 
 1. select createList.feature right click and run as cucumber feature [To execute single feature]
 2. Run test from editor configuration
